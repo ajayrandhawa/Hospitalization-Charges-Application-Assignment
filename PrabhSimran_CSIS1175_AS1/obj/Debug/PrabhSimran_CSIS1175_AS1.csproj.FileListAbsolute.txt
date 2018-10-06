@@ -1,0 +1,5 @@
+c:\users\cyberblack\documents\visual studio 2015\Projects\PrabhSimran_CSIS1175_AS1\PrabhSimran_CSIS1175_AS1\bin\Debug\PrabhSimran_CSIS1175_AS1.exe
+c:\users\cyberblack\documents\visual studio 2015\Projects\PrabhSimran_CSIS1175_AS1\PrabhSimran_CSIS1175_AS1\bin\Debug\PrabhSimran_CSIS1175_AS1.pdb
+c:\users\cyberblack\documents\visual studio 2015\Projects\PrabhSimran_CSIS1175_AS1\PrabhSimran_CSIS1175_AS1\obj\Debug\PrabhSimran_CSIS1175_AS1.csprojResolveAssemblyReference.cache
+c:\users\cyberblack\documents\visual studio 2015\Projects\PrabhSimran_CSIS1175_AS1\PrabhSimran_CSIS1175_AS1\obj\Debug\PrabhSimran_CSIS1175_AS1.exe
+c:\users\cyberblack\documents\visual studio 2015\Projects\PrabhSimran_CSIS1175_AS1\PrabhSimran_CSIS1175_AS1\obj\Debug\PrabhSimran_CSIS1175_AS1.pdb
