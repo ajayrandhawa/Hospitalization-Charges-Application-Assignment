@@ -1,4 +1,4 @@
-# Hospitalization Charges Application Assignment (CSIS 1175) DouGlas College
+# Hospitalization Charges Application Assignment (CSIS 1175) DouGlas College :)
 
 ### CSIS 1175: INTRODCTION TO PROGRAMMING I
 
